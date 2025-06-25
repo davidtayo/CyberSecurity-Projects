@@ -1,6 +1,6 @@
 ### CyberSecurity-Projects
 
-##Projects show casing attack and defence exploration
+## Projects show casing attack and defence exploration
 
 1. Read Team
 2. Blue Team
